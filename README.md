@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReactJs, hooks, redux toolkit**
 
-- 👨‍💻 All of my projects are available at [https://portfoliokulveer.netlify.app/](https://portfoliokulveer.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-kulveer.vercel.app/]
 
 - 💬 Ask me about **javascript, react, gsap,**
 

@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Javascript, ReactJs**
 
-- 📫 How to reach me **kulveer.uk@gmail.com**
+- 📫 How to reach me **kulveer.code@gmail.com**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kulveercode&show_icons=true&locale=en&layout=compact" alt="kulveercode" /></p>
 

@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Video Chat Applicarion**
 
-- 🌱 I’m currently learning **ReactJs, hooks, redux toolkit**
+- 🌱 I’m currently learning **ReactJs, hooks, redux toolkit, router**
 
 - 👨‍💻 All of my projects are available at **https://portfolio-kulveer.vercel.app/**
 

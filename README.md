@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kulveercode" alt="kulveercode" /></a> </p>
 
-- 🔭 I’m currently working on **MERN Project**
+- 🔭 I’m currently working on **React-Native Projects**
 
-- 🌱 I’m currently learning **ReactJs, hooks, redux toolkit, router**
+- 🌱 I’m currently learning **React-native, React, hooks, redux toolkit, router**
 
 - 👨‍💻 All of my projects are available at **https://portfolio-kulveer.vercel.app/**
 
